@@ -3,5 +3,6 @@ title: "Contacto"
 date: 2022-05-24T20:19:14-04:00
 draft: true
 ---
-- 📧[francocurotto@gmail.com](mailto:francocurotto@gmail.com)
-- **in** [linkedin.com/in/francocurotto](https://www.linkedin.com/in/francocurotto/)
+- {{<faicon "fa fa-at">}}[francocurotto@gmail.com](mailto:francocurotto@gmail.com)
+- {{<faicon "fa fa-linkedin">}}[linkedin.com/in/francocurotto](https://www.linkedin.com/in/francocurotto/)
+- {{<faicon "fa fa-telegram">}}[https://t.me/francocurotto](https://t.me/francocurotto)

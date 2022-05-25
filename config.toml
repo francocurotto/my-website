@@ -16,40 +16,47 @@ description = "Franco's Site"
 info = ["Electical Engineer", "Digital Electronic Specialist"]
 avatarURL = "images/avatar-20210806.jpg"
 dateFormat = "January 2, 2006"
+since = 2022
 colorScheme = "auto"
 
 [[params.social]]
 name = "Github"
-icon = "fa fa-2x fa-github"
+icon = "fa fa-2x fa-at"
 weight = 1
-url = "https://github.com/francocurotto/"
+url = "mailto:francocurotto@gmail.com"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
-weight = 4
+weight = 2
 url = "https://www.linkedin.com/in/francocurotto/"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-2x fa-github"
+weight = 3
+url = "https://github.com/francocurotto/"
 
 [languages.en]
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "CV"
+name = "📃CV"
 weight = 1
 url = "cv/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "🛠️Projects"
 weight = 2
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "📢Blog"
 weight = 3
 url = "blog/"
 
 [[languages.en.menu.main]]
-name = "Contact"
+name = "📧Contact"
 weight = 5
 url = "contact/"
 
@@ -61,21 +68,21 @@ author = "Franco Curotto"
 info = ["Ingeniero Eléctrico", "Especialista en Electrónica Digital"]
 
 [[languages.es.menu.main]]
-name = "CV"
+name = "📃CV"
 weight = 1
 url = "cv/"
 
 [[languages.es.menu.main]]
-name = "Proyectos"
+name = "🛠️Proyectos"
 weight = 2
 url = "projects/"
 
 [[languages.es.menu.main]]
-name = "Blog"
+name = "📢Blog"
 weight = 3
 url = "blog/"
 
 [[languages.es.menu.main]]
-name = "Contacto"
+name = "📧Contacto"
 weight = 5
 url = "contact/"
