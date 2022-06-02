@@ -25,7 +25,7 @@ Simple, multi-cycle, 8-bits processor designed in Verilog.
 A collection of digital designs, control scripts, and documentation for the [MWL](http://www.das.uchile.cl/lab_mwl/) of the University of Chile. Mostly development for [ROACH1](https://github.com/casper-astro/casper-hardware/blob/master/FPGA_Hosts/ROACH/README.md)/[ROACH2](https://github.com/casper-astro/casper-hardware/blob/master/FPGA_Hosts/ROACH2/README.md) platforms.
 {{<figure src="/images/project-Calan_Digital.png" height="200">}}
     - **Implementation:** MATLAB, Simulink models, Python
-    - **Status:** Maintenance transfered
+    - **Status:** Transfered to the [Millimeter-wave Laboratory](http://www.das.uchile.cl/lab_mwl/)
     - **Links:**
         - [Webpage 🔗](https://sites.google.com/site/calandigital/)
         - [Simulink models repo 🔗](https://github.com/FrancoCalan/simulink_models)

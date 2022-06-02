@@ -1,14 +1,8 @@
 baseurl = "http://www.francocurotto.com"
-title = "francocurotto"
+title = "Franco Curotto"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-
-#paginate = 20
-#pygmentsStyle = "bw"
-#pygmentsCodeFences = true
-#pygmentsCodeFencesGuessSyntax = true
-#enableEmoji = true
 
 [params]
 author = "Franco Curotto"
@@ -20,7 +14,7 @@ since = 2022
 colorScheme = "auto"
 
 [[params.social]]
-name = "Github"
+name = "Email"
 icon = "fa fa-2x fa-at"
 weight = 1
 url = "mailto:francocurotto@gmail.com"
@@ -51,13 +45,8 @@ weight = 2
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "📢Blog"
-weight = 3
-url = "blog/"
-
-[[languages.en.menu.main]]
 name = "📧Contact"
-weight = 5
+weight = 3
 url = "contact/"
 
 [languages.es]
@@ -78,11 +67,6 @@ weight = 2
 url = "projects/"
 
 [[languages.es.menu.main]]
-name = "📢Blog"
-weight = 3
-url = "blog/"
-
-[[languages.es.menu.main]]
 name = "📧Contacto"
-weight = 5
+weight = 3
 url = "contact/"

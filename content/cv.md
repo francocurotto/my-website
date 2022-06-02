@@ -7,9 +7,9 @@ draft: true
 ----------------
 I'm an electrical engineer⚡ from Chile🇨🇱. I have worked mostly in radio astronomy. I have experience in machine learning, robotics, digital signal processing, FPGA programming, and RF engineering.
 
-I love programming🧑‍💻. My favorite programming language is Python🐍. I try to use Linux🐧 and open source software wherever I can. 
+I love programming🧑‍💻. My favorite programming language is Python🐍. I try to use Linux🐧 and open source software wherever I can.
 
-I'm currently working as a senior engineer at the [ALMA Obervatory📡](https://www.almaobservatory.org/en/home/) for [NAOJ🇯🇵](https://www.nao.ac.jp/en/).
+I'm currently working as a senior engineer at the [ALMA Observatory📡](https://www.almaobservatory.org/en/home/) for [NAOJ🇯🇵](https://www.nao.ac.jp/en/).
 
 ## 🧑‍🎓Education
 ----------------------
@@ -29,7 +29,7 @@ Design and implementation of digital Back-Ends for radio astronomy
 - **2014 - 2017, Teaching Assistant, University of Chile**  
 TA for EL4002 Digital Design for 6 semesters
 
-## 🗣️Comunication Skills
+## 🗣️Communication Skills
 ----------------------------
 - **2019, Oral Presentation, CASPER Workshop**  
 Presented work for M. Sc. degree.  
@@ -61,7 +61,7 @@ Curotto Molina, Franco Andreas. "Design, implementation  and characterization of
 Finger, R., et al. "A FPGA-based Fast Converging Digital Adaptive Filter for Real-time RFI Mitigation on Ground Based Radio Telescopes." _Publications of the Astronomical  Society of the Pacific_ 130.984 (2017): 025002[📄🔗](https://iopscience.iop.org/article/10.1088/1538-3873/aa972f/pdf)
 3. **Research Article**  
 Alvear, Andrés, et al. "FPGA-based digital signal processing for the next generation radio astronomy instruments: ultra-pure sideband separation and polarization detection." _Millimeter, Submillimeter, and Far-Infrared Detectors and Instrumentation for Astronomy VIII. Vol. 9914_. International Society for Optics and Photonics, 2016.[🔗](https://www.researchgate.net/publication/305455863_FPGA-based_digital_signal_processing_for_the_next_generation_radio_astronomy_instruments_ultra-pure_sideband_separation_and_polarization_detection)
-4. **Engineering Thesis**
+4. **Engineering Thesis**  
 Curotto Molina, Franco Andreas. "Graphslam algorithm implementation for solving simultaneous localization and mapping." _University of Chile_ (2016)[📄🔗](http://repositorio.uchile.cl/bitstream/handle/2250/139093/Graphslam-algorithm-implementation-for-solving-simultaneous-localization-and-mapping.pdf?sequence=1)
 
 ## [📧Contact](/contact)
