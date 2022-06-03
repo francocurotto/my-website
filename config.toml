@@ -1,5 +1,5 @@
 baseurl = "http://www.francocurotto.com"
-title = "Franco Curotto"
+title = "FrancoCurotto"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
