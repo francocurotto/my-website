@@ -47,6 +47,11 @@ Harvard-Smithsonian Center for Astrophysics, Cambridge. [🎥](https://www.youtu
 - Simulink
 - Vivado/ISE
 - Linux
+##### Instrumentos/Equipamiento
+- Osciloscopios
+- Generadores de Señales
+- Analizadores de Espectro
+- Analizadores Vectoriales de Señales
 
 ## ㊗️Idiomas
 ----------------

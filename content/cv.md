@@ -35,7 +35,7 @@ TA for EL4002 Digital Design for 6 semesters
 Presented work for M. Sc. degree.  
 Harvard-Smithsonian Center for Astrophysics, Cambridge. [🎥](https://www.youtube.com/watch?v=0nEW_KABmiQ)
 
-## 🧑‍💻Software Skills
+## 🧑‍💻Technical Skills
 ----------------------------
 ##### Programming
 - Python
@@ -47,6 +47,11 @@ Harvard-Smithsonian Center for Astrophysics, Cambridge. [🎥](https://www.youtu
 - Simulink
 - Vivado/ISE
 - Linux
+##### Instruments/Equipments
+- Oscilloscopes
+- Signal Generators
+- Spectrum Analyzers
+- Vector Network Analyzers
 
 ## ㊗️Languages
 ----------------
