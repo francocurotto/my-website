@@ -5,11 +5,11 @@ draft: true
 ---
 ## 🙋Descripción
 ----------------
-Soy un ingeniero eléctrico⚡ de Chile🇨🇱. He trabajado mayoritariamente en radio astronomía. Tengo experiencia en aprendizaje de máquina, robótica, procesamiento digital de señales, programación de FPGAs, e ingeniería de radio frecuencia.
+Soy un ingeniero eléctrico⚡ de Chile 🇨🇱. He trabajado mayoritariamente en radio astronomía. Tengo experiencia en aprendizaje de máquina, robótica, procesamiento digital de señales, programación de FPGAs, e ingeniería de radio frecuencia.
 
 Me encanta la programación🧑‍💻. Mi lenguaje de programación favorito es Python🐍. Trato de usar Linux🐧 y software de código abierto lo más que puedo. 
 
-Actualmente estoy trabajado como ingeniero senior en el [Observatorio ALMA📡](https://www.almaobservatory.org/es/inicio/) para [NAOJ🇯🇵](https://www.nao.ac.jp/en/).
+Actualmente estoy trabajado como ingeniero senior en el [Observatorio ALMA📡](https://www.almaobservatory.org/es/inicio/) para [NAOJ 🇯🇵](https://www.nao.ac.jp/en/).
 
 ## 🧑‍🎓Educación
 ----------------------
@@ -33,10 +33,10 @@ Curso EL4002 Sistemas Digitales por 6 semestres
 -------------------------------------
 - **2019, Presentación Oral, CASPER Workshop**  
 Presentación de mi trabajo de magíster.  
-Harvard-Smithsonian Center for Astrophysics, Cambridge. [🎥](https://www.youtube.com/watch?v=0nEW_KABmiQ)
+Harvard-Smithsonian Center for Astrophysics, Cambridge. [🎥🔗](https://www.youtube.com/watch?v=0nEW_KABmiQ)
 
-## 🧑‍💻Habilidades de Software
-------------------------------------
+## 🧑‍💻Habilidades Técnicas
+---------------------------------
 ##### Programación
 - Python
     - NumPy, pandas, Matplotlib

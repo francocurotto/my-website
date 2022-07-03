@@ -5,11 +5,11 @@ draft: true
 ---
 ## 🙋Description
 ----------------
-I'm an electrical engineer⚡ from Chile🇨🇱. I have worked mostly in radio astronomy. I have experience in machine learning, robotics, digital signal processing, FPGA programming, and RF engineering.
+I'm an electrical engineer⚡ from Chile 🇨🇱. I have worked mostly in radio astronomy. I have experience in machine learning, robotics, digital signal processing, FPGA programming, and RF engineering.
 
 I love programming🧑‍💻. My favorite programming language is Python🐍. I try to use Linux🐧 and open source software wherever I can.
 
-I'm currently working as a senior engineer at the [ALMA Observatory📡](https://www.almaobservatory.org/en/home/) for [NAOJ🇯🇵](https://www.nao.ac.jp/en/).
+I'm currently working as a senior engineer at the [ALMA Observatory📡](https://www.almaobservatory.org/en/home/) for [NAOJ 🇯🇵](https://www.nao.ac.jp/en/).
 
 ## 🧑‍🎓Education
 ----------------------
@@ -33,7 +33,7 @@ TA for EL4002 Digital Design for 6 semesters
 ----------------------------
 - **2019, Oral Presentation, CASPER Workshop**  
 Presented work for M. Sc. degree.  
-Harvard-Smithsonian Center for Astrophysics, Cambridge. [🎥](https://www.youtube.com/watch?v=0nEW_KABmiQ)
+Harvard-Smithsonian Center for Astrophysics, Cambridge. [🎥🔗](https://www.youtube.com/watch?v=0nEW_KABmiQ)
 
 ## 🧑‍💻Technical Skills
 ----------------------------
