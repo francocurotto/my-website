@@ -1,3 +1,1 @@
-- check grammar
-- add spie publication
 - create website
