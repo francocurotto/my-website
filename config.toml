@@ -12,6 +12,8 @@ avatarURL = "images/avatar-20210806.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
 colorScheme = "auto"
+favicon_16 = "images/favicon-16x16.png"
+favicon_32 = "images/favicon-32x32.png"
 
 [[params.social]]
 name = "Email"
