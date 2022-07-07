@@ -38,15 +38,21 @@ Harvard-Smithsonian Center for Astrophysics, Cambridge. [🎥🔗](https://www.y
 ## 🧑‍💻Habilidades Técnicas
 ---------------------------------
 ##### Programación
-- Python
-    - NumPy, pandas, Matplotlib
-- MATLAB/Octave
-- Verilog
-- LaTeX
+- [Python](https://www.python.org/)
+    - [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [SciPy](https://scipy.org/)
+- [MATLAB](https://www.mathworks.com/products/matlab.html)/[Octave](https://octave.org/index)
+- [Verilog](https://ieeexplore.ieee.org/document/1620780)
+- [LaTeX](https://www.latex-project.org/)
+- [`C++`](https://cplusplus.com/)
+    - [OpenCV](https://opencv.org/)
+    - [Eigec++](https://eigen.tuxfamily.org/index.php?title=Main_Page)
+    - [g2o](https://github.com/RainerKuemmerle/g2o)
+                
 ##### Tecnología/Software
-- Simulink
-- Vivado/ISE
-- Linux
+- [Simulink](https://www.mathworks.com/products/simulink.html)
+- [Vivado](https://www.xilinx.com/products/design-tools/vivado.html)/[ISE](https://www.xilinx.com/products/design-tools/ise-design-suite.html)
+- [Linux](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
+- [Godot](https://godotengine.org/)
 ##### Instrumentos/Equipamiento
 - Osciloscopios
 - Generadores de Señales
