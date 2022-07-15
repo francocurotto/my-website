@@ -23,7 +23,7 @@ Simple procesador multi-ciclo de 8 bits diseñado en Verilog.
 Traducción al español del juego fanmade [Turnabout Substitution](http://turnaboutsub.weebly.com/).
 {{<figure src="/images/20220715-caso-sustituto-2.png" height="200">}}
     - **Estado:** Terminado
-    - **Link**: [🔗](../es/blog/el-caso-sustituto)
+    - **Link**: [🔗](../blog/el-caso-sustituto)
 
 ## 💼Proyectos Laborales
 ------------------------
