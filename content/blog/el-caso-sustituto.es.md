@@ -12,10 +12,11 @@ En 2014 hice una traducción del juego fanmade Turnabout Substitution creado por
 
 Hace poco decidí intentar revivir esa traducción, dado que ya no se podía jugar debido a problemas de compatibilidad con el programa PyWright para correr el juego. Sorprendentemente fue relativamente fácil hacerlo funcionar nuevamente! 
 
+{{<figure src="/images/20220715-caso-sustituto-2.png" height="250">}}
+
 Acá les dejo las instrucciones para los interesados. Está considerado solo para usuarios de Windows (probado en Windows 11):
 
-
-1. Descargar una versión midificada de PyWright que hice para aceptar caracteres en español (ñ, vocales con tilde, etc.), y descomprimir: [link🔗](https://u.pcloud.link/publink/show?code=XZqty8VZClDzJUNabt0WxepU1HJjw0FKlyk0)
+1. Descargar una versión modificada de PyWright que hice para aceptar caracteres en español (ñ, vocales con tilde, etc.), y descomprimir: [link🔗](https://u.pcloud.link/publink/show?code=XZqty8VZClDzJUNabt0WxepU1HJjw0FKlyk0)
 2. Descargar El Caso Sustituto, la versión traducida que hice de Turnabout Substitution, y descomprimir: [link🔗](https://u.pcloud.link/publink/show?code=XZdty8VZLBCk9AMH31SlnhJh7RUSRbqqyUkk)
 3. Mover la carpeta `El Caso Sustituto` a la ubicación `PyWright/games`.
 4. Ejecutar `PyWright.exe` y seguir las instrucciones del programa.

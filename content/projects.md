@@ -19,6 +19,12 @@ Simple, multi-cycle, 8-bits processor designed in Verilog.
     - **Status:** Finished
     - **Link**: [🔗](https://github.com/francocurotto/FRANK6000)
 
+- **El Caso Sustituto**  
+Spanish translation of the fanmade game [Turnabout Substitution](http://turnaboutsub.weebly.com/).
+{{<figure src="/images/20220715-caso-sustituto-2.png" height="200">}}
+    - **Status:** Finished
+    - **Link**: [🔗](../es/blog/el-caso-sustituto)
+
 ## 💼Work Projects
 ------------------
 - **Calan Digital**  
