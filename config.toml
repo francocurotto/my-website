@@ -1,4 +1,5 @@
-baseurl = "http://www.francocurotto.com"
+#baseurl = "http://www.francocurotto.com"
+baseurl = "https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/"
 title = "FrancoCurotto"
 theme = "hugo-coder"
 languageCode = "en"

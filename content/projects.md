@@ -7,14 +7,14 @@ draft: true
 ----------------------
 - **DDMre**  
 Reimplementation of [Yu-Gi-Oh! Dungeon Dice Monsters](https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Dungeon_Dice_Monsters_(video_game)) video game.
-{{<figure src="/images/project-DDMre.png" height="200">}}
+{{<figure src="https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/images/project-DDMre.png" height="200">}}
     - **Implementation:** Godot, GDScript
     - **Status:** Under development
     - **Link:** [🔗](https://github.com/francocurotto/DDMre)
 
 - **FRANK6000**  
 Simple, multi-cycle, 8-bits processor designed in Verilog.
-{{<figure src="/images/project-FRANK6000.png" height="200">}}
+{{<figure src="images/project-FRANK6000.png" height="200">}}
     - **Implementation:** Verilog
     - **Status:** Finished
     - **Link**: [🔗](https://github.com/francocurotto/FRANK6000)

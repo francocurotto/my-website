@@ -1,5 +1,5 @@
 #!/bin/bash
 rm -rf public
-rm -rf /var/www/francocurotto/*
+rm -rf $HOME/pCloudDrive/Public\ Folder/My-Website/*
 hugo -D
-cp -r public/* /var/www/francocurotto/
+cp -r public/* $HOME/pCloudDrive/Public\ Folder/My-Website/
