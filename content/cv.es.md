@@ -5,11 +5,11 @@ draft: true
 ---
 ## 🙋Descripción
 ----------------
-Soy un ingeniero eléctrico⚡ de Chile 🇨🇱. He trabajado mayoritariamente en radio astronomía. Tengo experiencia en aprendizaje de máquina, robótica, procesamiento digital de señales, programación de FPGAs, e ingeniería de radio frecuencia.
+Soy un ingeniero eléctrico⚡ de Chile 🇨🇱. He trabajado mayoritariamente en radio astronomía. Tengo experiencia en programación de FPGAs, ingeniería de radio frecuencia, procesamiento digital de señales, y aprendizaje de máquina.  
 
-Me encanta la programación🧑‍💻. Mi lenguaje de programación favorito es Python🐍. Trato de usar Linux🐧 y software de código abierto lo más que puedo. 
+Me encanta la programación🧑‍💻. Mi lenguaje de programación favorito es Python🐍. Trato de usar Linux🐧 y software de código abierto🐂 lo más que puedo. 
 
-Actualmente estoy trabajado como ingeniero senior en el [Observatorio ALMA📡](https://www.almaobservatory.org/es/inicio/) para [NAOJ 🇯🇵](https://www.nao.ac.jp/en/).
+Actualmente trabajo como encargado del [Laboratorio de Ondas Milimétricas](http://www.das.uchile.cl/lab_mwl/), de la [Universidad de Chile](https://uchile.cl/). Mi trabajo consiste en supervisar los proyectos de ingeniería del laboratorio.
 
 ## 🧑‍🎓Educación
 ----------------------
@@ -22,12 +22,14 @@ Enseñanza Básica y Media
 
 ## 🧑‍💼Experiencia Laboral
 --------------------------------
-- **2020 - presente, Ingeniero Senior, Observatorio Astronómico Nacional de Japón**  
+- **2023 - presente, Supervisor de Laboratorio, Laboratorio de Ondas Milimétricas**
+Supervisión de  proyectos de radio frecuencia y electrónica
+- **2022 - 2023, Científico de Datos, Laboratorio Avanzado de Geoestadística y Supercómputo**
+Desarrollo de un framework de aprendizaje de máquina para el procesamiento de imágenes hiperespectrales
+- **2020 - 2022, Ingeniero Senior, Observatorio Astronómico Nacional de Japón**  
 Mantenimiento de Correlador y sistemas de Back-End
 - **2018 - 2020, Ingeniero Eléctrico, Universidad de Chile**  
 Diseño e implementación de Back-Ends digitales para radio astronomía
-- **2014 - 2017, Profesor Auxiliar, Universidad de Chile**  
-Curso EL4002 Sistemas Digitales por 6 semestres
 
 ## 🗣️Habilidades Comunicacionales
 -------------------------------------
@@ -39,15 +41,10 @@ Harvard-Smithsonian Center for Astrophysics, Cambridge. [🎥🔗](https://www.y
 ---------------------------------
 ##### Programación
 - [Python](https://www.python.org/)
-    - [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [SciPy](https://scipy.org/)
+    - [NumPy](https://numpy.org/), [SciPy](https://scipy.org/), [sklearn](https://scikit-learn.org/stable/index.html)
 - [MATLAB](https://www.mathworks.com/products/matlab.html)/[Octave](https://octave.org/index)
 - [Verilog](https://ieeexplore.ieee.org/document/1620780)
 - [LaTeX](https://www.latex-project.org/)
-- [`C++`](https://cplusplus.com/)
-    - [OpenCV](https://opencv.org/)
-    - [Eigec++](https://eigen.tuxfamily.org/index.php?title=Main_Page)
-    - [g2o](https://github.com/RainerKuemmerle/g2o)
-                
 ##### Tecnología/Software
 - [Simulink](https://www.mathworks.com/products/simulink.html)
 - [Vivado](https://www.xilinx.com/products/design-tools/vivado.html)/[ISE](https://www.xilinx.com/products/design-tools/ise-design-suite.html)

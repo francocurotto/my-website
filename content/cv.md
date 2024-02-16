@@ -5,11 +5,12 @@ draft: true
 ---
 ## 🙋Description
 ----------------
-I'm an electrical engineer⚡ from Chile 🇨🇱. I have worked mostly in radio astronomy. I have experience in machine learning, robotics, digital signal processing, FPGA programming, and RF engineering.
+I'm an electrical engineer⚡ from Chile 🇨🇱. I have worked mostly in radio astronomy. I have experience in FPGA programming, RF engineering, digital signal processing, and machine learning.
 
-I love programming🧑‍💻. My favorite programming language is Python🐍. I try to use Linux🐧 and open source software wherever I can.
 
-I'm currently working as a senior engineer at the [ALMA Observatory📡](https://www.almaobservatory.org/en/home/) for [NAOJ 🇯🇵](https://www.nao.ac.jp/en/).
+I love programming🧑‍💻. My favorite programming language is Python🐍. I try to use Linux🐧 and open source software🐂 wherever I can.
+
+I'm currently working as a manager for the [Millimeter-Wave Laboratory](http://www.das.uchile.cl/lab_mwl/), from [University of Chile](https://uchile.cl/). I'm in charge of supervising the engineering projects in the laboratory.
 
 ## 🧑‍🎓Education
 ----------------------
@@ -22,12 +23,14 @@ School
 
 ## 🧑‍💼Working Experience
 -------------------------------
-- **2020 - present, Senior Engineer, National Astronomical Observatory of Japan**  
+- **2023 - present, Laboratory Manager, Millimeter-Wave Laboratory**
+Supervision of radio frequency and electronics projects
+- **2022 - 2023, Data Scientist, Advanced Laboratory for Geostatistical Supercomputing**
+Development of a machine learning framework for hyperspectral image processing
+- **2020 - 2022, Senior Engineer, National Astronomical Observatory of Japan**  
 Maintenance of Correlator and Back-End systems
 - **2018 - 2020, Electrical Engineer, University of Chile**  
 Design and implementation of digital Back-Ends for radio astronomy
-- **2014 - 2017, Teaching Assistant, University of Chile**  
-TA for EL4002 Digital Design for 6 semesters
 
 ## 🗣️Communication Skills
 ----------------------------
@@ -39,14 +42,10 @@ Harvard-Smithsonian Center for Astrophysics, Cambridge. [🎥🔗](https://www.y
 ----------------------------
 ##### Programming
 - [Python](https://www.python.org/)
-    - [NumPy](https://numpy.org/), [pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [SciPy](https://scipy.org/)
+    - [NumPy](https://numpy.org/), [SciPy](https://scipy.org/), [sklearn](https://scikit-learn.org/stable/index.html)
 - [MATLAB](https://www.mathworks.com/products/matlab.html)/[Octave](https://octave.org/index)
 - [Verilog](https://ieeexplore.ieee.org/document/1620780)
 - [LaTeX](https://www.latex-project.org/)
-- [`C++`](https://cplusplus.com/)
-    - [OpenCV](https://opencv.org/)
-    - [Eigec++](https://eigen.tuxfamily.org/index.php?title=Main_Page)
-    - [g2o](https://github.com/RainerKuemmerle/g2o)
 ##### Technology/Software
 - [Simulink](https://www.mathworks.com/products/simulink.html)
 - [Vivado](https://www.xilinx.com/products/design-tools/vivado.html)/[ISE](https://www.xilinx.com/products/design-tools/ise-design-suite.html)
