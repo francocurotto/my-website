@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FrancoCurotto</title>
-    <link>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/es/</link>
+    <link>http://www.francocurotto.com/es/</link>
     <description>Recent content on FrancoCurotto</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Jul 2022 14:53:38 -0400</lastBuildDate><atom:link href="https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/es/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Jul 2022 14:53:38 -0400</lastBuildDate><atom:link href="http://www.francocurotto.com/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Turnabout Substitution - Traducción</title>
-      <link>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/es/blog/el-caso-sustituto/</link>
+      <link>http://www.francocurotto.com/es/blog/el-caso-sustituto/</link>
       <pubDate>Fri, 15 Jul 2022 14:53:38 -0400</pubDate>
       
-      <guid>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/es/blog/el-caso-sustituto/</guid>
+      <guid>http://www.francocurotto.com/es/blog/el-caso-sustituto/</guid>
       <description>En 2014 hice una traducción del juego fanmade Turnabout Substitution creado por Ping&#39;. El juego pretende ser el faltante quinto caso de Apollo Justice Ace Attorney, de la saga de video juegos Ace Attorney. En esa época quedé tan impresionado con el juego, que me di la tarea de traducirlo al español considerando que todos los juegos oficiales de la saga ya tenían traducción hasta ese entonces.
 Hace poco decidí intentar revivir esa traducción, dado que ya no se podía jugar debido a problemas de compatibilidad con el programa PyWright para correr el juego.</description>
     </item>
     
     <item>
       <title>Proyectos</title>
-      <link>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/es/projects/</link>
+      <link>http://www.francocurotto.com/es/projects/</link>
       <pubDate>Thu, 02 Jun 2022 16:06:08 -0400</pubDate>
       
-      <guid>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/es/projects/</guid>
+      <guid>http://www.francocurotto.com/es/projects/</guid>
       <description>🎮Proyectos Personales       DDMre
 Reimplementación del vídeo juego Yu-Gi-Oh! Dungeon Dice Monsters.   Implementación: Godot, GDScript Estado: En desarrollo Link: 🔗    FRANK6000
 Simple procesador multi-ciclo de 8 bits diseñado en Verilog.   Implementación: Verilog Estado: Terminado Link: 🔗    El Caso Sustituto
@@ -31,10 +31,10 @@ Traducción al español del juego fanmade Turnabout Substitution.   Estado: Term
     
     <item>
       <title>CV</title>
-      <link>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/es/cv/</link>
+      <link>http://www.francocurotto.com/es/cv/</link>
       <pubDate>Thu, 02 Jun 2022 16:05:50 -0400</pubDate>
       
-      <guid>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/es/cv/</guid>
+      <guid>http://www.francocurotto.com/es/cv/</guid>
       <description>🙋Descripción     Soy un ingeniero eléctrico⚡ de Chile 🇨🇱. He trabajado mayoritariamente en radio astronomía. Tengo experiencia en aprendizaje de máquina, robótica, procesamiento digital de señales, programación de FPGAs, e ingeniería de radio frecuencia.
 Me encanta la programación🧑‍💻. Mi lenguaje de programación favorito es Python🐍. Trato de usar Linux🐧 y software de código abierto lo más que puedo.
 Actualmente estoy trabajado como ingeniero senior en el Observatorio ALMA📡 para NAOJ 🇯🇵.</description>
@@ -42,10 +42,10 @@ Actualmente estoy trabajado como ingeniero senior en el Observatorio ALMA📡 pa
     
     <item>
       <title>Contacto</title>
-      <link>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/es/contact/</link>
+      <link>http://www.francocurotto.com/es/contact/</link>
       <pubDate>Tue, 24 May 2022 20:19:14 -0400</pubDate>
       
-      <guid>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/es/contact/</guid>
+      <guid>http://www.francocurotto.com/es/contact/</guid>
       <description>  francocurotto@gmail.com  linkedin.com/in/francocurotto  https://t.me/francocurotto  </description>
     </item>
     

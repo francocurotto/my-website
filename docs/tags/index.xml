@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on FrancoCurotto</title>
-    <link>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/tags/</link>
+    <link>http://www.francocurotto.com/tags/</link>
     <description>Recent content in Tags on FrancoCurotto</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://www.francocurotto.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
