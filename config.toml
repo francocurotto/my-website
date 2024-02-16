@@ -4,6 +4,7 @@ title = "FrancoCurotto"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
+publishDir = "docs"
 
 [params]
 author = "Franco Curotto"
