@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FrancoCurotto</title>
+    <link>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/</link>
+    <description>Recent content on FrancoCurotto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog</title>
+      <link>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/blog/</link>
+      <pubDate>Sat, 02 Jul 2022 22:54:37 -0400</pubDate>
+      
+      <guid>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/blog/</guid>
+      <description>I&amp;rsquo;ll write stuff here when I think of something to say&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/projects/</link>
+      <pubDate>Wed, 25 May 2022 08:36:18 -0400</pubDate>
+      
+      <guid>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/projects/</guid>
+      <description>🎮Personal Projects       DDMre
+Reimplementation of Yu-Gi-Oh! Dungeon Dice Monsters video game.   Implementation: Godot, GDScript Status: Under development Link: 🔗    FRANK6000
+Simple, multi-cycle, 8-bits processor designed in Verilog.   Implementation: Verilog Status: Finished Link: 🔗    El Caso Sustituto
+Spanish translation of the fanmade game Turnabout Substitution.   Status: Finished Link: 🔗    💼Work Projects      Calan Digital</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/contact/</link>
+      <pubDate>Tue, 24 May 2022 20:08:09 -0400</pubDate>
+      
+      <guid>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/contact/</guid>
+      <description>  francocurotto@gmail.com  linkedin.com/in/francocurotto  https://t.me/francocurotto  </description>
+    </item>
+    
+    <item>
+      <title>CV</title>
+      <link>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/cv/</link>
+      <pubDate>Tue, 24 May 2022 20:07:00 -0300</pubDate>
+      
+      <guid>https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/cv/</guid>
+      <description>🙋Description     I&amp;rsquo;m an electrical engineer⚡ from Chile 🇨🇱. I have worked mostly in radio astronomy. I have experience in machine learning, robotics, digital signal processing, FPGA programming, and RF engineering.
+I love programming🧑‍💻. My favorite programming language is Python🐍. I try to use Linux🐧 and open source software wherever I can.
+I&amp;rsquo;m currently working as a senior engineer at the ALMA Observatory📡 for NAOJ 🇯🇵.
+🧑‍🎓Education      2016 - 2019, University of Chile</description>
+    </item>
+    
+  </channel>
+</rss>
