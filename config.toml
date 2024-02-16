@@ -8,7 +8,7 @@ publishDir = "docs"
 [params]
 author = "Franco Curotto"
 description = "Franco's Site"
-info = ["⚡Electical Engineer👷‍♂️", "👨‍💻Digital Electronics Specialist📡", "🔥Emoji Expert😎"]
+info = ["⚡ Electical Engineer 👷‍♂️", "👨‍💻 Digital Electronics Specialist 📡", "🔥 Emoji Expert 😎"]
 avatarURL = "images/avatar-20210806.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
@@ -62,7 +62,7 @@ languageName = ":es:"
 
 [languages.es.params]
 author = "Franco Curotto"
-info = ["⚡Ingeniero Eléctrico👷‍♂️", "👨‍💻Especialista en Electrónica Digital📡", "🔥Experto en Emojis😎"]
+info = ["⚡ Ingeniero Eléctrico 👷‍♂️", "👨‍💻 Especialista en Electrónica Digital 📡", "🔥 Experto en Emojis 😎"]
 
 [[languages.es.menu.main]]
 name = "📃CV"
