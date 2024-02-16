@@ -10,7 +10,7 @@ I'm an electrical engineer ⚡ from Chile 🇨🇱. I have worked mostly in radi
 
 I love programming 🧑‍💻. My favorite programming language is Python 🐍. I try to use Linux 🐧 and open source software 🐂 wherever I can.
 
-I'm currently working as a manager for the [Millimeter-Wave Laboratory](http://www.das.uchile.cl/lab_mwl/), from [University of Chile](https://uchile.cl/). I'm in charge of supervising the engineering projects in the laboratory.
+I'm currently working as the manager for the [Millimeter-Wave Laboratory](http://www.das.uchile.cl/lab_mwl/), from [University of Chile](https://uchile.cl/). I'm in charge of supervising the engineering projects in the laboratory.
 
 ## 🧑‍🎓Education
 ----------------------
@@ -23,9 +23,9 @@ School
 
 ## 🧑‍💼Working Experience
 -------------------------------
-- **2023 - present, Laboratory Manager, Millimeter-Wave Laboratory**
+- **2023 - present, Laboratory Manager, Millimeter-Wave Laboratory**  
 Supervision of radio frequency and electronics projects
-- **2022 - 2023, Data Scientist, Advanced Laboratory for Geostatistical Supercomputing**
+- **2022 - 2023, Data Scientist, Advanced Laboratory for Geostatistical Supercomputing**  
 Development of a machine learning framework for hyperspectral image processing
 - **2020 - 2022, Senior Engineer, National Astronomical Observatory of Japan**  
 Maintenance of Correlator and Back-End systems

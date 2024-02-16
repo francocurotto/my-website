@@ -7,7 +7,7 @@ draft: true
 ----------------
 Soy un ingeniero eléctrico ⚡ de Chile 🇨🇱. He trabajado mayoritariamente en radio astronomía. Tengo experiencia en programación de FPGAs, ingeniería de radio frecuencia, procesamiento digital de señales, y aprendizaje de máquina.  
 
-Me encanta la programación 🧑‍💻. Mi lenguaje de programación favorito es Python 🐍. Trato de usar Linux 🐧 y software de código abierto 🐂 lo más que puedo. 
+Me encanta la programación 🧑‍💻. Mi lenguaje de programación favorito es Python 🐍. Trato de usar Linux 🐧 y software de código abierto 🐂 lo más que puedo.
 
 Actualmente trabajo como encargado del [Laboratorio de Ondas Milimétricas](http://www.das.uchile.cl/lab_mwl/), de la [Universidad de Chile](https://uchile.cl/). Mi trabajo consiste en supervisar los proyectos de ingeniería del laboratorio.
 
@@ -22,9 +22,9 @@ Enseñanza Básica y Media
 
 ## 🧑‍💼Experiencia Laboral
 --------------------------------
-- **2023 - presente, Supervisor de Laboratorio, Laboratorio de Ondas Milimétricas**
+- **2023 - presente, Supervisor de Laboratorio, Laboratorio de Ondas Milimétricas**  
 Supervisión de  proyectos de radio frecuencia y electrónica
-- **2022 - 2023, Científico de Datos, Laboratorio Avanzado de Geoestadística y Supercómputo**
+- **2022 - 2023, Científico de Datos, Laboratorio Avanzado de Geoestadística y Supercómputo**  
 Desarrollo de un framework de aprendizaje de máquina para el procesamiento de imágenes hiperespectrales
 - **2020 - 2022, Ingeniero Senior, Observatorio Astronómico Nacional de Japón**  
 Mantenimiento de Correlador y sistemas de Back-End
