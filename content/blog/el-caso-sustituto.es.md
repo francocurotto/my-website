@@ -6,13 +6,13 @@ categories: "video juegos"
 tags: "traducción"
 ---
 
-{{<figure src="https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/images/20220715-caso-sustituto.png" height="250">}}
+{{<figure src="https://raw.githubusercontent.com/francocurotto/francocurotto.github.io/main/static/images/20220715-caso-sustituto.png" height="250">}}
 
 En 2014 hice una traducción del juego fanmade Turnabout Substitution creado por Ping'. El juego pretende ser el faltante quinto caso de Apollo Justice Ace Attorney, de la saga de video juegos Ace Attorney. En esa época quedé tan impresionado con el juego, que me di la tarea de traducirlo al español considerando que todos los juegos oficiales de la saga ya tenían traducción hasta ese entonces.
 
 Hace poco decidí intentar revivir esa traducción, dado que ya no se podía jugar debido a problemas de compatibilidad con el programa PyWright para correr el juego. Sorprendentemente fue relativamente fácil hacerlo funcionar nuevamente! 
 
-{{<figure src="https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/images/20220715-caso-sustituto-2.png" height="250">}}
+{{<figure src="https://raw.githubusercontent.com/francocurotto/francocurotto.github.io/main/static/images/20220715-caso-sustituto-2.png" height="250">}}
 
 Acá les dejo las instrucciones para los interesados. Está considerado solo para usuarios de Windows (probado en Windows 11):
 
