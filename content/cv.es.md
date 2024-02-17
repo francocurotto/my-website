@@ -27,7 +27,7 @@ Supervisión de  proyectos de radio frecuencia y electrónica
 - **2022 - 2023, Científico de Datos, Laboratorio Avanzado de Geoestadística y Supercómputo**  
 Desarrollo de un framework de aprendizaje de máquina para el procesamiento de imágenes hiperespectrales
 - **2020 - 2022, Ingeniero Senior, Observatorio Astronómico Nacional de Japón**  
-Mantenimiento de Correlador y sistemas de Back-End
+Mantenimiento de Correlador y sistemas de Back-End para el [Radio Telescopio ALMA](https://www.almaobservatory.org/es/inicio/)
 - **2018 - 2020, Ingeniero Eléctrico, Universidad de Chile**  
 Diseño e implementación de Back-Ends digitales para radio astronomía
 

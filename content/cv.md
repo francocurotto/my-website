@@ -28,7 +28,7 @@ Supervision of radio frequency and electronics projects
 - **2022 - 2023, Data Scientist, Advanced Laboratory for Geostatistical Supercomputing**  
 Development of a machine learning framework for hyperspectral image processing
 - **2020 - 2022, Senior Engineer, National Astronomical Observatory of Japan**  
-Maintenance of Correlator and Back-End systems
+Maintenance of Correlator and Back-End systems for the [ALMA Telescope](https://www.almaobservatory.org/en/home/)
 - **2018 - 2020, Electrical Engineer, University of Chile**  
 Design and implementation of digital Back-Ends for radio astronomy
 
