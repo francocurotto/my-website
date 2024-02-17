@@ -7,7 +7,7 @@ draft: true
 ----------------------
 - **DDMre**  
 Reimplementation of [Yu-Gi-Oh! Dungeon Dice Monsters](https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Dungeon_Dice_Monsters_(video_game)) video game.
-{{<figure src="https://filedn.com/lL3cXiC9aFiLWzMxTSeebW0/My-Website/images/project-DDMre.png" height="200">}}
+{{<figure src="https://github.com/francocurotto/francocurotto.github.io/blob/main/static/images/project-DDMre.png" height="200">}}
     - **Implementation:** Godot, GDScript
     - **Status:** Under development
     - **Link:** [🔗](https://github.com/francocurotto/DDMre)
