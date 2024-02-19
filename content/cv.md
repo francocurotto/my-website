@@ -7,7 +7,6 @@ draft: true
 ----------------
 I'm an electrical engineer ⚡ from Chile 🇨🇱. I have worked mostly in radio astronomy. I have experience in FPGA programming, RF engineering, digital signal processing, and machine learning.
 
-
 I love programming 🧑‍💻. My favorite programming language is Python 🐍. I try to use Linux 🐧 and open source software 🐂 wherever I can.
 
 I'm currently working as the manager for the [Millimeter-Wave Laboratory](http://www.das.uchile.cl/lab_mwl/), from [University of Chile](https://uchile.cl/). I'm in charge of supervising the engineering projects in the laboratory.
