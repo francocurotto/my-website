@@ -8,7 +8,7 @@ publishDir = "docs"
 [params]
 author = "Franco Curotto"
 description = "Franco's Site"
-info = ["⚡ Electical Engineer 👷‍♂️", "👨‍💻 Digital Electronics Specialist 📡", "🔥 Emoji Expert 😎"]
+info = ["⚡ Electrical Engineer 👷‍♂️", "👨‍💻 Digital Electronics Specialist 📡", "🔥 Emoji Expert 😎"]
 avatarURL = "images/avatar-20210806.jpg"
 dateFormat = "January 2, 2006"
 since = 2022
