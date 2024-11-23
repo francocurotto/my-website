@@ -5,49 +5,6 @@
     <link>https://www.francocurotto.com/es/</link>
     <description>Recent content on FrancoCurotto</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 15 Jul 2022 14:53:38 -0400</lastBuildDate><atom:link href="https://www.francocurotto.com/es/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Turnabout Substitution - Traducción</title>
-      <link>https://www.francocurotto.com/es/blog/el-caso-sustituto/</link>
-      <pubDate>Fri, 15 Jul 2022 14:53:38 -0400</pubDate>
-      
-      <guid>https://www.francocurotto.com/es/blog/el-caso-sustituto/</guid>
-      <description>En 2014 hice una traducción del juego fanmade Turnabout Substitution creado por Ping&#39;. El juego pretende ser el faltante quinto caso de Apollo Justice Ace Attorney, de la saga de video juegos Ace Attorney. En esa época quedé tan impresionado con el juego, que me di la tarea de traducirlo al español considerando que todos los juegos oficiales de la saga ya tenían traducción hasta ese entonces.
-Hace poco decidí intentar revivir esa traducción, dado que ya no se podía jugar debido a problemas de compatibilidad con el programa PyWright para correr el juego.</description>
-    </item>
-    
-    <item>
-      <title>Proyectos</title>
-      <link>https://www.francocurotto.com/es/projects/</link>
-      <pubDate>Thu, 02 Jun 2022 16:06:08 -0400</pubDate>
-      
-      <guid>https://www.francocurotto.com/es/projects/</guid>
-      <description>🎮Proyectos Personales       DDMre
-Reimplementación del vídeo juego Yu-Gi-Oh! Dungeon Dice Monsters.   Implementación: Godot, GDScript Estado: En desarrollo Link: 🔗    FRANK6000
-Simple procesador multi-ciclo de 8 bits diseñado en Verilog.   Implementación: Verilog Estado: Terminado Link: 🔗    El Caso Sustituto
-Traducción al español del juego fanmade Turnabout Substitution.   Estado: Terminado Link: 🔗    💼Proyectos Laborales      Calan Digital</description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://www.francocurotto.com/es/cv/</link>
-      <pubDate>Thu, 02 Jun 2022 16:05:50 -0400</pubDate>
-      
-      <guid>https://www.francocurotto.com/es/cv/</guid>
-      <description>🙋Descripción     Soy un ingeniero eléctrico ⚡ de Chile 🇨🇱. He trabajado mayoritariamente en radio astronomía. Tengo experiencia en programación de FPGAs, ingeniería de radio frecuencia, procesamiento digital de señales, y aprendizaje de máquina.
-Me encanta la programación 🧑‍💻. Mi lenguaje de programación favorito es Python 🐍. Trato de usar Linux 🐧 y software de código abierto 🐂 lo más que puedo.
-Actualmente trabajo como encargado del Laboratorio de Ondas Milimétricas, de la Universidad de Chile.</description>
-    </item>
-    
-    <item>
-      <title>Contacto</title>
-      <link>https://www.francocurotto.com/es/contact/</link>
-      <pubDate>Tue, 24 May 2022 20:19:14 -0400</pubDate>
-      
-      <guid>https://www.francocurotto.com/es/contact/</guid>
-      <description>  francocurotto@gmail.com  linkedin.com/in/francocurotto  https://t.me/francocurotto  </description>
-    </item>
-    
+    <language>en</language><atom:link href="https://www.francocurotto.com/es/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

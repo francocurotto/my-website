@@ -2,11 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.francocurotto.com/es/blog/</loc>
-    <lastmod>2022-07-15T14:53:38-04:00</lastmod>
-  </url><url>
     <loc>https://www.francocurotto.com/es/categories/</loc>
-    <lastmod>2022-07-15T14:53:38-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,7 +15,6 @@
                 />
   </url><url>
     <loc>https://www.francocurotto.com/es/</loc>
-    <lastmod>2022-07-15T14:53:38-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -32,7 +27,6 @@
                 />
   </url><url>
     <loc>https://www.francocurotto.com/es/tags/</loc>
-    <lastmod>2022-07-15T14:53:38-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,54 +36,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="https://www.francocurotto.com/es/tags/"
-                />
-  </url><url>
-    <loc>https://www.francocurotto.com/es/tags/traducci%C3%B3n/</loc>
-    <lastmod>2022-07-15T14:53:38-04:00</lastmod>
-  </url><url>
-    <loc>https://www.francocurotto.com/es/blog/el-caso-sustituto/</loc>
-    <lastmod>2022-07-15T14:53:38-04:00</lastmod>
-  </url><url>
-    <loc>https://www.francocurotto.com/es/categories/video-juegos/</loc>
-    <lastmod>2022-07-15T14:53:38-04:00</lastmod>
-  </url><url>
-    <loc>https://www.francocurotto.com/es/projects/</loc>
-    <lastmod>2022-06-02T16:06:08-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.francocurotto.com/projects/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.francocurotto.com/es/projects/"
-                />
-  </url><url>
-    <loc>https://www.francocurotto.com/es/cv/</loc>
-    <lastmod>2022-06-02T16:05:50-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.francocurotto.com/cv/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.francocurotto.com/es/cv/"
-                />
-  </url><url>
-    <loc>https://www.francocurotto.com/es/contact/</loc>
-    <lastmod>2022-05-24T20:19:14-04:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.francocurotto.com/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.francocurotto.com/es/contact/"
                 />
   </url>
 </urlset>
